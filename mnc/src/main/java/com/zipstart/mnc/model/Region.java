@@ -1,4 +1,4 @@
-package com.sm.mnc.model;
+package com.zipstart.mnc.model;
 
 import java.io.Serializable;
 import java.lang.Long;
